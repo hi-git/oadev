@@ -1,9 +1,6 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ page import="com.office.bean.*"%>
-<%@ page import="com.office.view.*"%>
-<%@ page import="com.office.model.*"%>
-<%@ page import="com.office.common.*"%>
-<%@ page import="com.office.component.config.*"%>
+<%@ page import="com.office.common.**"%>
+<%@ page import="com.office.component.config1.*"%>
 
 <%
   // 得到文件名字和路径  
