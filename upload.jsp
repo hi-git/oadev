@@ -1,3 +1,5 @@
+add
+delete
 update
 <%@ page import="com.office.bean.*"%>
 <%@ page import="com.office.view.*"%>
